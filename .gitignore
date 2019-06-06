@@ -1,4 +1,3 @@
 /.idea
-/Maven01/target
-/Maven02/target
+/*/target/*
 *.iml
